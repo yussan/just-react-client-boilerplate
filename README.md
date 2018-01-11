@@ -12,4 +12,4 @@ If you want to build complex app using ReactJS i have recommendation for you [ht
     yarn start
     ```
 - Code your react component inside `src`.
-- Preview to the browser by accessing the `dist/index.html`. 
+- Preview to the browser by accessing the `dist/index.html`.
