@@ -7,14 +7,19 @@
   "dependencies": {
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
+    "react-redux": "^7.1.1",
+    "redux": "^4.0.4",
+    "redux-logger": "^3.0.6",
+    "redux-saga": "^1.1.1",
+    "string-manager": "^2.0.1",
     "webpack": "^3.10.0"
   },
   "devDependencies": {
     "@babel/core": "^7.6.4",
-    "babel-loader": "^8.0.6",
-    "babel-plugin-transform-class-properties": "^6.24.1",
     "@babel/preset-env": "^7.6.3",
     "@babel/preset-react": "^7.6.3",
+    "babel-loader": "^8.0.6",
+    "babel-plugin-transform-class-properties": "^6.24.1",
     "copy-webpack-plugin": "^4.3.1"
   }
 }
